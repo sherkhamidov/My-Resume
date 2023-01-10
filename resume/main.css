@@ -1,0 +1,28 @@
+.container{
+    width: 1140px;
+}
+
+.title{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.paragraph_2{
+    text-align: center;
+    font-weight: bold;
+}
+
+.paragraph_3, .paragraph_4,
+.paragraph_5{
+    text-align: center;
+}
+
+.paragraph_6{
+    text-align: center;
+    font-weight: bold;
+}
+
+.paragraph_7, .paragraph_8, .paragraph_9,
+.paragraph_0, .paragraph_01{
+    text-align: center;
+}
